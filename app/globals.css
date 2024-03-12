@@ -31,3 +31,7 @@ body {
     text-wrap: balance;
   }
 }
+
+[list]::-webkit-calendar-picker-indicator {
+  opacity: 0;
+}
